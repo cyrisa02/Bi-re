@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T13:09:23.675Z" agent="5.0 (X11)" etag="0-9TbNXbxMXrybL20n0H" version="17.4.0" type="github"><diagram id="cOJvb7FUOKUHm0cvdfno" name="Page-1">3ZpRc5s4EMc/DdOnzgAy2H4MTpp22s51Jtfr9VEGBZQIRIVkJ/70JyGBAdGeM1NHvpvJJNYiY/TTave/63hgUz7dMlgXn2mGiBf62ZMHrr0wXK5j+VsZnrVhsQq0IWc406aB4Q4fkDH6xipwhprRRE4p4bgeG1NaVSjlIxtkjO7H0+4pGX9qDXNkGe5SSGzrN5zxQltX4fJof49wXnSfHMRrfaWE3WSzkqaAGd0PTODGAxtGKdevyqcNIopdx0W/791PrvYPxlDFT3nDl92H/dfbj+ub7+zP7+8Ph8dq17wN9V12kAizYPOw/LkjsC8wR3c1TNV4LzfZA0nBSyJHgXxpP4Z5sh1iHD0NTOaxbhEtEWfPckrnJIaQcZGgI7Y/Al8CYyuGsH3fWKHZ5by/9xGEfGFYvIALsLg0SI4JzXPELETyhtIf5SA5PywQTGjFNq1gMUNreS5WC4tV7m2Ad7VmCpVP5PFVtGj62DglF4WXRi6yyMkwphaEj+BEhbnGqUaZ8sISNYIhpyzDCUsAXLOMLZZMY0tFPXTHTOjgbGxYpyuFdctg06h0EMZEPm2yldPjnPfALgT1wjnqwGYtOCa4aQGLSsGEda1StaZM9J+6oJVbtw2iMcu1e5ZLOwYYxx3QZChFnLtlt/DH7ELn4TNY2Vn6Da6alGEVHv0Wo99DrNC+IQqj2wQ+5Qgi5xzXFkeLUM6ojKMnr74X5HDb3cGfp9KdRN+mEM9ACPzoTBTsg3iVcmr7itTxtXopSqIngKRN2bJm+AS3iHyhDeaYVnLKlnJOy8GEK4JzdYHTf/WrX+/U6RFvonlsynPKOj6bq9li8S8seSFhg5Yr5GNKDDX4YDzKl2MouITdlozqMjR0UwkRsRnsJc4y9eakprji7dqixIuupeUeE7KhRG3ndaXSFEgazugjmhjlMagylJkH+P3bZvZpFZ10GsJz7VN342FI0GqqgFVbAvmN0PnJU1U1E+WFyaZe3XdEZ6rK1w2z/Rp+IptU0IQEVZkUpawTpfeIlRICbCOK07TVHV3DM3IunbosNeAJH0TDB1VnhqpmUD5dkIqPnGf90O5xyBVyqE932fIzutNx3R6NPa9H4g6dncXgjuL+GLeqB4ruDG8pyy4sOk7dMXTvjnYzBKYF4iYUKm+UVTtuz/KKteOaoXJouCjCU5nvvmwP7bJ95LUPVLAKzrRDXJ79SW84cp/FZwp2SFJBBmlnR4nQAbQvQckbuINV6pjmJJIC95HULuEn7Y/2nFMpz52Sm6pJ973j0C7aR2137X8pVbYk4W5T+FQ8xs6PcReNf/2thbb8ELhGSoX3HfgLbRUvJtX+cqbcf2XMtka3CJ27tRSe2lr6HdX0u+J+mW/+PvxRfD7wR/DM1jfVW7vwu7zWUr9TL2imW1hft5dkK8avupb2wqT9meD9/zSUXrBZfePvtENwto4SsNXnVV0TLE1JL+JPiKf/yU18eSRfRGO9sbC3b/mq22fL3kbgXfs9Swm9aaPqotJitB6nxdh5KQZmZK9OaoNyl24fkGPdFq0mguKM5OTw+M9Q7bXBf5SBm38A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-08T12:20:06.319Z" agent="5.0 (X11)" etag="HWds1uLhD3F9e1oZ1oCs" version="17.4.1" type="github">
+  <diagram id="cOJvb7FUOKUHm0cvdfno" name="Page-1">
+    <mxGraphModel dx="796" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-2" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="120" width="730" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-3" value="se logger" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-4" value="gérer les stocks" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-5" value="convertir les unités de mesure" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-6" value="récupérer du matériel de brassage&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-16" value="utiliser une app téléphone" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="930" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-17" value="créer une recette" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-18" value="s&#39;inscrire à une newsletter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-19" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry y="900" width="60" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="PvIwUGK9EYrTYHzzknvs-19" vertex="1">
+          <mxGeometry x="10" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-14" value="Visiteur" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="PvIwUGK9EYrTYHzzknvs-19" vertex="1">
+          <mxGeometry y="85" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-20" value="échanger sur un forum&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="820" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-21" value="utiliser un calendrier de fermentation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="530" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-22" value="ajuster les densités" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="550" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-23" value="partager mes recettes" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="554" y="270" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-24" value="avoir un tableau de bord&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-25" value="acheter des matières premières&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-26" value="avoir un journal de brassage" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="520" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-27" value="calculer les volumes à l&#39;avance" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="554" y="370" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-28" value="créer un profil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-29" value="gérer mes coûts" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="620" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-30" value="gérer les équipements de brassage&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="710" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-32" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry y="200" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Fhf7gCXzOhMztk3yr9En-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="PvIwUGK9EYrTYHzzknvs-32" vertex="1">
+          <mxGeometry x="15" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-15" value="User ++" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="PvIwUGK9EYrTYHzzknvs-32" vertex="1">
+          <mxGeometry y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-36" value="Appli Bière&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="445" y="140" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-37" value="suivre ma fermentation&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="630" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvIwUGK9EYrTYHzzknvs-38" value="connecter des objets" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="730" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o1YmJWhIuR2uWq00r5ow-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="PvIwUGK9EYrTYHzzknvs-28" target="PvIwUGK9EYrTYHzzknvs-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1YmJWhIuR2uWq00r5ow-3" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvIwUGK9EYrTYHzzknvs-4" target="PvIwUGK9EYrTYHzzknvs-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1YmJWhIuR2uWq00r5ow-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvIwUGK9EYrTYHzzknvs-23" target="PvIwUGK9EYrTYHzzknvs-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
