@@ -67,7 +67,7 @@ footer {
     display:none;
 }
 
-@media (min-width: 430px) {
+@media (min-width: 430px) and (min-height: 700px) {
     h1 {
         display:block;
         margin-right: 2%;
@@ -113,13 +113,13 @@ footer {
     }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1000px) and (min-height: 900px) {
     .nav-bar {
         font-size: 30px;
     }
 }
 
-@media (min-width: 1920px) {
+@media (min-width: 1920px) and (min-height: 1080px)  {
     .logo {
         width:200px;
         height:200px;
