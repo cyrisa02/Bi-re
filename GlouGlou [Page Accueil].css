@@ -1,0 +1,70 @@
+/* Ici placer votre @import avec une police si vous souhaitez rajouter vos polices d'Ã©criture (aller sur GoogleFont par exemple)*/
+
+html, body {
+    margin: 0;
+    /* Veuillez placer votre police d'Ã©criture que vous souhaitez */
+    font-family: ;
+}
+            
+.titre {
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    /* Veuillez placer votre police d'Ã©criture que vous souhaitez */
+    font-family: ;
+    /* A ENLEVER EVIDEMEMNT */
+    background-color: rgb(165, 165, 165);
+}
+            
+.body_page {
+    display: flex;
+}
+            
+nav {
+    margin: 1%;
+    /* A ENLEVER EVIDEMEMNT */
+    background-color: rgb(204, 207, 23);
+
+    padding: 4%;
+    margin: 0;
+}
+            
+.navigation  {
+    list-style: none;
+    padding: 5%;
+}
+            
+.sommaire {
+    font-size: 25px;
+    margin: 1%;
+}
+            
+li {
+    padding: 9px;
+    font-size: 20px;
+}
+            
+.article_contenu {
+    /* A ENLEVER EVIDEMEMNT */
+    background-color: aqua;
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 3%;
+}
+            
+.a_article {
+    margin-bottom: 5%;
+}
+
+.foot {
+    /* A ENLEVER EVIDEMEMNT */
+     background-color: greenyellow;
+
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+}
+           
